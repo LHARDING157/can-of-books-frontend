@@ -1,0 +1,16 @@
+.books-container {
+  display: flex;
+  gap: 10px;
+}
+
+.books {
+  height: 400px;
+  width: 300px;
+  border: solid black 2px;
+}
+
+.delbtn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
